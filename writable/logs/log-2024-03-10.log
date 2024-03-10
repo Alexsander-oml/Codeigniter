@@ -1,0 +1,111 @@
+CRITICAL - 2024-03-10 04:04:40 --> ArgumentCountError: Too few arguments to function App\Controllers\Home::processarFormulario(), 0 passed in C:\Users\Alexsander\Downloads\codeigniter4-framework-v4.4.6-0-g7d393f8\codeigniter\system\CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->processarFormulario()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Alexsander\\Downloads\\codeigniter4-framework-v4.4.6-0-g7d393f8\\codeigniter\\public\\index.php')
+CRITICAL - 2024-03-10 04:05:16 --> ArgumentCountError: Too few arguments to function App\Controllers\Home::processarFormulario(), 0 passed in C:\Users\Alexsander\Downloads\codeigniter4-framework-v4.4.6-0-g7d393f8\codeigniter\system\CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->processarFormulario()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Alexsander\\Downloads\\codeigniter4-framework-v4.4.6-0-g7d393f8\\codeigniter\\public\\index.php')
+CRITICAL - 2024-03-10 04:05:18 --> ArgumentCountError: Too few arguments to function App\Controllers\Home::processarFormulario(), 0 passed in C:\Users\Alexsander\Downloads\codeigniter4-framework-v4.4.6-0-g7d393f8\codeigniter\system\CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->processarFormulario()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Alexsander\\Downloads\\codeigniter4-framework-v4.4.6-0-g7d393f8\\codeigniter\\public\\index.php')
+CRITICAL - 2024-03-10 04:05:19 --> ArgumentCountError: Too few arguments to function App\Controllers\Home::processarFormulario(), 0 passed in C:\Users\Alexsander\Downloads\codeigniter4-framework-v4.4.6-0-g7d393f8\codeigniter\system\CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->processarFormulario()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Alexsander\\Downloads\\codeigniter4-framework-v4.4.6-0-g7d393f8\\codeigniter\\public\\index.php')
+CRITICAL - 2024-03-10 04:05:19 --> ArgumentCountError: Too few arguments to function App\Controllers\Home::processarFormulario(), 0 passed in C:\Users\Alexsander\Downloads\codeigniter4-framework-v4.4.6-0-g7d393f8\codeigniter\system\CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->processarFormulario()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Alexsander\\Downloads\\codeigniter4-framework-v4.4.6-0-g7d393f8\\codeigniter\\public\\index.php')
+CRITICAL - 2024-03-10 04:05:19 --> ArgumentCountError: Too few arguments to function App\Controllers\Home::processarFormulario(), 0 passed in C:\Users\Alexsander\Downloads\codeigniter4-framework-v4.4.6-0-g7d393f8\codeigniter\system\CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->processarFormulario()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Alexsander\\Downloads\\codeigniter4-framework-v4.4.6-0-g7d393f8\\codeigniter\\public\\index.php')
+CRITICAL - 2024-03-10 04:05:24 --> ArgumentCountError: Too few arguments to function App\Controllers\Home::processarFormulario(), 0 passed in C:\Users\Alexsander\Downloads\codeigniter4-framework-v4.4.6-0-g7d393f8\codeigniter\system\CodeIgniter.php on line 941 and exactly 1 expected
+in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->processarFormulario()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Alexsander\\Downloads\\codeigniter4-framework-v4.4.6-0-g7d393f8\\codeigniter\\public\\index.php')
+CRITICAL - 2024-03-10 04:06:28 --> ErrorException: Undefined property: App\Controllers\Home::$input
+in APPPATH\Controllers\Home.php on line 13.
+ 1 APPPATH\Controllers\Home.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Home::$input', 'C:\\Users\\Alexsander\\Downloads\\codeigniter4-framework-v4.4.6-0-g7d393f8\\codeigniter\\app\\Controllers\\Home.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->processarFormulario()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Alexsander\\Downloads\\codeigniter4-framework-v4.4.6-0-g7d393f8\\codeigniter\\public\\index.php')
+CRITICAL - 2024-03-10 04:06:49 --> ErrorException: Undefined property: App\Controllers\Home::$input
+in APPPATH\Controllers\Home.php on line 13.
+ 1 APPPATH\Controllers\Home.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Home::$input', 'C:\\Users\\Alexsander\\Downloads\\codeigniter4-framework-v4.4.6-0-g7d393f8\\codeigniter\\app\\Controllers\\Home.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->processarFormulario()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Alexsander\\Downloads\\codeigniter4-framework-v4.4.6-0-g7d393f8\\codeigniter\\public\\index.php')
+CRITICAL - 2024-03-10 04:06:53 --> ErrorException: Undefined property: App\Controllers\Home::$input
+in APPPATH\Controllers\Home.php on line 13.
+ 1 APPPATH\Controllers\Home.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Home::$input', 'C:\\Users\\Alexsander\\Downloads\\codeigniter4-framework-v4.4.6-0-g7d393f8\\codeigniter\\app\\Controllers\\Home.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->processarFormulario()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Alexsander\\Downloads\\codeigniter4-framework-v4.4.6-0-g7d393f8\\codeigniter\\public\\index.php')
+CRITICAL - 2024-03-10 04:10:29 --> Error: Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Home.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->processarFormulario()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Alexsander\\Downloads\\codeigniter4-framework-v4.4.6-0-g7d393f8\\codeigniter\\public\\index.php')
+CRITICAL - 2024-03-10 04:10:38 --> Error: Undefined constant "App\Controllers\this"
+in APPPATH\Controllers\Home.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->processarFormulario()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Alexsander\\Downloads\\codeigniter4-framework-v4.4.6-0-g7d393f8\\codeigniter\\public\\index.php')
+CRITICAL - 2024-03-10 04:10:52 --> ErrorException: Undefined property: App\Controllers\Home::$load
+in APPPATH\Controllers\Home.php on line 21.
+ 1 APPPATH\Controllers\Home.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Home::$load', 'C:\\Users\\Alexsander\\Downloads\\codeigniter4-framework-v4.4.6-0-g7d393f8\\codeigniter\\app\\Controllers\\Home.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->processarFormulario()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Alexsander\\Downloads\\codeigniter4-framework-v4.4.6-0-g7d393f8\\codeigniter\\public\\index.php')
+CRITICAL - 2024-03-10 04:10:57 --> ErrorException: Undefined property: App\Controllers\Home::$load
+in APPPATH\Controllers\Home.php on line 21.
+ 1 APPPATH\Controllers\Home.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Home::$load', 'C:\\Users\\Alexsander\\Downloads\\codeigniter4-framework-v4.4.6-0-g7d393f8\\codeigniter\\app\\Controllers\\Home.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->processarFormulario()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Alexsander\\Downloads\\codeigniter4-framework-v4.4.6-0-g7d393f8\\codeigniter\\public\\index.php')
+CRITICAL - 2024-03-10 04:10:58 --> ErrorException: Undefined property: App\Controllers\Home::$load
+in APPPATH\Controllers\Home.php on line 21.
+ 1 APPPATH\Controllers\Home.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Home::$load', 'C:\\Users\\Alexsander\\Downloads\\codeigniter4-framework-v4.4.6-0-g7d393f8\\codeigniter\\app\\Controllers\\Home.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->processarFormulario()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Alexsander\\Downloads\\codeigniter4-framework-v4.4.6-0-g7d393f8\\codeigniter\\public\\index.php')
