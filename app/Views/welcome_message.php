@@ -18,7 +18,7 @@
     }
 
     .container {
-        max-width: 400px;
+        max-width: 300px;
         width: 100%;
         padding: 20px;
         border-radius: 8px;
