@@ -96,12 +96,6 @@
             <div class="form-group">
                 <input type="date" name="ano_nascimento" required>
             </div>
-            <div class="ressarc-container">
-                <p>aaaa</p>
-                <img src="Views/ressarc.png" alt="Icone" class="icon">
-            </div>
-
-
             <button type="submit">Enviar</button>
         </form>
     </div>
