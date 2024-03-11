@@ -188,3 +188,10 @@ in APPPATH\Views\resultados.php on line 12.
  8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
  9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
 10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Alexsander\\Downloads\\codeigniter4-framework-v4.4.6-0-g7d393f8\\codeigniter\\public\\index.php')
+CRITICAL - 2024-03-11 22:31:09 --> TypeError: Unsupported operand types: string - int
+in APPPATH\Controllers\Home.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->processarFormulario()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\Alexsander\\Downloads\\codeigniter4-framework-v4.4.6-0-g7d393f8\\codeigniter\\public\\index.php')
