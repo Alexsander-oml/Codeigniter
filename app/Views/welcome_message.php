@@ -94,12 +94,12 @@
             </div>
             <label for="ano_nascimento">Ano de nascimento:</label>
             <div class="form-group">
-                <input type="date" name="ano_nascimento" required>
+                <input type="number" name="ano_nascimento" required min="1900 tua idade" max="2024">
             </div>
             <button type="submit">Enviar</button>
         </form>
     </div>
-
+    
 </body>
 
 </html>

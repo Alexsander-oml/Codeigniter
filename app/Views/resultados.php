@@ -11,7 +11,8 @@
   <h2>Resultado</h2>
   <p>Nome: <?= $nome; ?></p>
   <p>Ano de nascimento: <?= $ano_nascimento; ?></p>
-  <p>Salário: <?= $salario; ?></p>
+  <p>Salário: R$<?= $salario; ?></p>
+  <p>Ressarcimento: R$<?= $ressarcimento; ?></p>
 </body>
 
 </html>
